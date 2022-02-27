@@ -1,6 +1,6 @@
 # E-Commerce Website Frontend Design
 
-This is 10 Page E-commerce
+This is 10 Page E-commerce Website
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
@@ -22,6 +22,3 @@ Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ
 
 Primary Azure Technology*:
 Azure Bot Service, QnA Maker, Static Web Apps,
-
-Other Azure Technologies:
-App Service
